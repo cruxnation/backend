@@ -48,7 +48,7 @@
     "contributte/console":        "^0.9",
     "contributte/guzzlette":      "^3.3",
     "kdyby/redis":                "^6.1",
-    "infinityloop-dev/utils":     "^2.0",
+
     "infinityloop-dev/coolbeans": "^0.11.2",
 
     "infinityloop-dev/graphpinator":                       "^1.4",
