@@ -1,2 +1,8 @@
-vendor/*
 .idea/*
+.serverless/*
+nbproject/*
+
+build/*
+temp/*
+log/*
+vendor/*

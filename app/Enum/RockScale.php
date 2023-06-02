@@ -10,4 +10,6 @@ enum RockScale : string
     case FRENCH = 'FRENCH';
     #[Description('UIAA grading scale (8, 8+, 9-, ...)')]
     case UIAA = 'UIAA';
+    #[Description('Yosemite Decimal System (5.9, 5.10a, 5.10b, ...)')]
+    case YDS = 'YDS';
 }
